@@ -1,4 +1,4 @@
-# Furosemide-Admissions-Predictions
+# Exploring the relationship between furosemide dose and hospital admissions in patients with heart failure
 A project using statistical and machine learning methods to predict hospital admission in heart failure patients with a focus on furosemide dosing and model interpretability using SHAP.
 # Hospital Admission Risk Prediction (Heart Failure & Furosemide)
 
