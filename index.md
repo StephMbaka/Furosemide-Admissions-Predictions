@@ -20,7 +20,8 @@ It focuses on the role of **furosemide dose** and other clinical/demographic fac
 
 ## 🧑‍💻 Repository
 You can explore the full code, notebooks, and results here:  
-➡️ [GitHub Repository] (https://github.com/StephMbaka/Furosemide-Admissions-Predictions) 
+➡️ [GitHub Repository](https://github.com/StephMbaka/Furosemide-Admissions-Predictions)
+
 
 ---
 
@@ -32,7 +33,7 @@ You can explore the full code, notebooks, and results here:
 ---
 
 ## 🙏 Acknowledgements
-Supervision and guidance provided by:  
+Supervision and guidance provided by at the University of Exeter:  
 - Prof. Umesh Kadam  
 - Dr Benjamin Owusu  
 - Dr Aishwaryaprajna  
@@ -40,4 +41,4 @@ Supervision and guidance provided by:
 ---
 
 ## 📬 Contact
-For questions or collaborations, feel free to reach out via GitHub or LinkedIn.
+For questions or collaborations, feel free to reach out via GitHub.
