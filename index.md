@@ -20,7 +20,7 @@ It focuses on the role of **furosemide dose** and other clinical/demographic fac
 
 ## 🧑‍💻 Repository
 You can explore the full code, notebooks, and results here:  
-➡️ [GitHub Repository](https://github.com/your-username/your-repo-name)  
+➡️ [GitHub Repository](https://stephmbaka.github.io/furosemide-admissions-predictions/)  
 
 ---
 
